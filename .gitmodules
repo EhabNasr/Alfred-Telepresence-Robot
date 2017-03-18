@@ -1,0 +1,6 @@
+[submodule "Alfred-Android-Control"]
+	path = Alfred-Android-Control
+	url = https://github.com/EhabNasr/Alfred-Android-Control
+[submodule "Alfred-MQTT-Control"]
+	path = Alfred-MQTT-Control
+	url = https://github.com/EhabNasr/Alfred-MQTT-Control
